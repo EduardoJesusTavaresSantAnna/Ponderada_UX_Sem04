@@ -9,3 +9,7 @@ Para o Andamento desse gráfico foi utilizado a tecnologia P5.js, mas antes foi 
   <img src="Gráfico.png" alt="Gráfico de Distribuição de Limite Sugerido" width="600"/>
   <p><em>Gráfico de Distribuição de Limite Sugerido</em></p>
 </div>
+
+# 3. Resultado final
+
+Para visualizar o gráfico, basta abrir o arquivo `index.html` no navegador. O gráfico será renderizado automaticamente via p5.js.
